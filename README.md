@@ -60,7 +60,7 @@
 <tr>
 <td width="50%">
 
-**🛡️ [AdverShield – Adversarial ML Battle Arena](https://github.com/mhammad-code)**
+**🛡️ [AdverShield – Adversarial ML Battle Arena](https://github.com/mhammad-code/AdverShield-Adversarial-ML-Battle-Arena)**
 Full-stack platform where AI agents compete to attack and defend image classifiers using 12+ attack algorithms (FGSM, PGD, CW) and 13 defense mechanisms via ART. Integrated Llama 3.3 (Groq API) for strategy generation, Q-Learning for adaptive behavior, GradCAM visualizations, and a real-time analytics dashboard.
 
 </td>
@@ -92,12 +92,12 @@ Java GUI application for booking and managing rides, applying OOP principles inc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhammad-code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad-code&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhammad-code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad-code&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammad-code&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammad-code&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">

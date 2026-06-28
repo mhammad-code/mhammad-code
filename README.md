@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=Hammad%20Hussain&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=Hammad%20Hussain&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20and%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/mhammad-code">

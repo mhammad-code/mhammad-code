@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=Hammad%20Hussain&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20and%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
+<h1 align="center">Hi 👋, I'm Muhammad Hammad Hussain</h1>
+<h3 align="center">A passionate Software Engineering student exploring AI, ML & Software Development</h3>
+
 <p align="center">
   <a href="https://github.com/mhammad-code">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Engineering+Student;Building+AI+%2B+Adversarial+ML+Projects;OOP+%7C+Data+Structures+%7C+Databases;Eager+to+dive+deeper+into+AI+%26+ML" alt="Typing SVG" />
@@ -44,6 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="45" height="45"/>&nbsp;
 </p>

@@ -1,14 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hammad%20Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=Hammad%20Hussain&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/mhammad-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+AI+%2B+Adversarial+ML+Projects;OOP+%7C+Data+Structures+%7C+Databases;Eager+to+dive+deeper+into+AI+%26+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Engineering+Student;Building+AI+%2B+Adversarial+ML+Projects;OOP+%7C+Data+Structures+%7C+Databases;Eager+to+dive+deeper+into+AI+%26+ML" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhammad-code&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/mhammad-code?label=Followers&style=flat&color=58A6FF" alt="followers"/>
 </p>
 
 ---
@@ -20,6 +15,22 @@
 - 🗃️ Skilled in **OOP**, relational database design (**MySQL**), and GUI-based desktop applications
 - 🤖 **Eager to learn and grow in AI, Machine Learning, Computer Vision & NLP**
 - ⚡ Passionate about writing efficient, scalable code and applying CS concepts to real-world problems
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:mhammadhussain81@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hammad-h-b0ab66282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  </a>
+  <a href="https://github.com/mhammad-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -77,32 +88,16 @@ Java GUI application for booking and managing rides, applying OOP principles inc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhammad-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhammad-code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad-code&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammad-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammad-code&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&amp;theme=tokyo-night&amp;hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:mhammadhussain81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hammad-h-b0ab66282">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mhammad-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=100&amp;section=footer" width="100%"/>

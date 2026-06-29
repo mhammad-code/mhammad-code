@@ -2,8 +2,9 @@ name: Refresh README Stats
 
 on:
   schedule:
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # allows manual run from the Actions tab
 
 permissions:
   contents: write
@@ -18,7 +19,7 @@ jobs:
       - name: Bust cache on stats images
         run: |
           TIMESTAMP=$(date +%s)
-          sed -i "s/&t=[0-9]\+/\&t=${TIMESTAMP}/g" README.md
+          sed -i "s/amp;t=[0-9]\+/amp;t=${TIMESTAMP}/g" README.md
 
       - name: Commit and push if changed
         run: |

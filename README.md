@@ -139,6 +139,10 @@ Java GUI application for booking and managing rides, applying OOP principles inc
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mhammad-code/mhammad-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&amp;theme=tokyo-night&amp;hide_border=true&amp;t=0000000000" alt="Activity Graph" width="90%"/>
 </p>
 

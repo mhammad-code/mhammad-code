@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhammad-code&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mhammad-code?label=Followers&style=flat&color=58A6FF" alt="Followers"/>
-</p>
 
 ---
 
@@ -44,26 +40,56 @@
 
 ### Languages
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br/><sub><b>C++</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/><br/><sub><b>C#</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/><br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/><br/><sub><b>MySQL</b></sub>
+</td>
+</tr>
+</table>
 
 ### Tools
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="50" height="50"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/><br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/><br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/><br/><sub><b>Visual Studio</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="50" height="50"/><br/><sub><b>CLion</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50" height="50"/><br/><sub><b>PyCharm</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="50" height="50"/><br/><sub><b>NetBeans</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -136,10 +162,6 @@ Java GUI application for booking and managing rides, applying OOP principles inc
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhammad-code&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="90%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>

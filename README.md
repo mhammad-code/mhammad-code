@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,100:2C5364&amp;height=200&amp;section=header&amp;text=Hammad%20Hussain&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20and%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hammad%20Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20and%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hammad Hussain</h1>
 <h3 align="center">A passionate Software Engineering student exploring AI, ML & Software Development</h3>
 
 <p align="center">
   <a href="https://github.com/mhammad-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Engineering+Student;Building+AI+%2B+Adversarial+ML+Projects;OOP+%7C+Data+Structures+%7C+Databases;Eager+to+dive+deeper+into+AI+%26+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+AI+%2B+Adversarial+ML+Projects;OOP+%7C+Data+Structures+%7C+Databases;Eager+to+dive+deeper+into+AI+%26+ML" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,13 +25,13 @@
 
 <p align="left">
   <a href="mailto:mhammadhussain81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/hammad-h-b0ab66282">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/mhammad-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br/>Git
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="45" height="45"/><br/>GitHub
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/><br/>GitHub
 </td>
 <td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/><br/>VS Code
@@ -104,21 +104,35 @@ Full-stack platform where AI agents compete to attack and defend image classifie
 </td>
 <td width="50%">
 
-**🩸 [Blood Bank Emergency Matching System](https://github.com/mhammad-code)**
-C++ hospital network simulation using a Max-Heap Priority Queue for emergency-first blood request scheduling and Dijkstra's Algorithm on a 20-node graph. Includes FIFO-based inventory with 42-day expiry tracking, binary file persistence, and a GenericManager template class.
+**📊 [InsightSphere – AI Business Intelligence Dashboard](https://github.com/mhammad-code/InsightSphere)**
+Streamlit-based BI app: upload sales data and get instant KPIs, interactive Plotly charts, and AI-generated insights via a Groq-powered chat assistant, wrapped in a dark glassmorphism UI.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🛒 [Grocery Store Management System](https://github.com/mhammad-code)**
+**🩸 [Blood Bank Emergency Matching System](https://github.com/mhammad-code/Blood-Bank-Emergency-Matching-System-)**
+C++ hospital network simulation using a Max-Heap Priority Queue for emergency-first blood request scheduling and Dijkstra's Algorithm on a 20-node graph. Includes FIFO-based inventory with 42-day expiry tracking, binary file persistence, and a GenericManager template class.
+
+</td>
+<td width="50%">
+
+**🏦 [Banking Management System](https://github.com/mhammad-code/Banking-Management-System)**
+Console-based C++ banking application supporting account creation, deposits, withdrawals, and balance inquiries, built with structured programming and efficient transaction-handling logic.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛒 [Online Grocery Store System](https://github.com/mhammad-code/Online-Grocery-Store-System)**
 GUI-based desktop application built with C# WinForms integrated with a MySQL database, supporting full CRUD operations for product and user data with a clean, user-friendly interface.
 
 </td>
 <td width="50%">
 
-**🚗 [Ride Booking System (OOP-Based)](https://github.com/mhammad-code)**
+**🚗 [Ride Booking System (OOP-Based)](https://github.com/mhammad-code/Ride-Booking-System)**
 Java GUI application for booking and managing rides, applying OOP principles including encapsulation, class design, and modular programming.
 
 </td>
@@ -130,16 +144,16 @@ Java GUI application for booking and managing rides, applying OOP principles inc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhammad-code&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=1800&amp;t=1784296505" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad-code&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;t=1784296505" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhammad-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammad-code&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=1800&amp;t=1784296505" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammad-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&amp;theme=tokyo-night&amp;hide_border=true&amp;t=1784296505" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,100:0F2027&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>

@@ -71,7 +71,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br/><sub><b>Git</b></sub>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50"/><br/><sub><b>GitHub</b></sub>
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/><br/><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="110">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/><br/><sub><b>VS Code</b></sub>

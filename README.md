@@ -157,11 +157,11 @@ Java GUI application for booking and managing rides, applying OOP principles inc
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhammad-code&theme=synthwave&hide_border=true&cache_seconds=0&t=20260719b" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=mhammad-code&theme=radical&hide_border=true&cache_seconds=0&t=20260719c" alt="GitHub Streak" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&theme=synthwave&hide_border=true&cache_seconds=0&t=20260719b" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhammad-code&theme=radical&hide_border=true&cache_seconds=0&t=20260719c" alt="Activity Graph" width="90%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>

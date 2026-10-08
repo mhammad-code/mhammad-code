@@ -160,8 +160,4 @@ Java GUI application for booking and managing rides, applying OOP principles inc
   <img src="https://streak-stats.demolab.com/?user=mhammad-code&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/mhammad-code" alt="GitHub Contribution Chart" width="90%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
